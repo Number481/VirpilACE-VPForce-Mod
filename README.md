@@ -19,3 +19,6 @@ The Virpil ACE pedals 3D model that is part of these design files is of my own m
 
 A full as-built build list is provided Here.
 [Virpil ACE VPForce Build List.xlsx](https://github.com/Number481/VirpilACE-VPForce-Mod/files/12152633/Virpil.ACE.VPForce.Build.List.xlsx)
+
+
+![VPF_VPC-Pedals_Build List](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/2842bfcf-0761-4e69-8b75-c033a74f4e79)
