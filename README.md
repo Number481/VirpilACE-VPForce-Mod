@@ -1,6 +1,9 @@
-# VirpilACE-VPForce-Mod
+# Virpil ACE | VPForce Mod
 
 This repository contains the design files for my VPForce DIY Kit modification of the Virpil ACE pedals.
+
+![VPF_VPC-Pedals](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/dad2efcc-e845-4e18-b904-63928c868592)
+
 
 The build can be completed without making any permanent modifications to the pedals.  There are 3x M6 holes in the main gear and gear mounting plate that can be used to secure the center of the gear plate to the upper arm if you so desire, but that will require drilling 3x 6mm holes in the upper arm of the pedals.  These bolts are not required and , to date, I have not installed them on my build.
 ## CYA Note:
