@@ -1,6 +1,6 @@
-# Virpil ACE | VPForce Mod
+# Virpil ACE | VPForce FFB Mod
 
-This repository contains the design files for my VPForce DIY Kit modification of the Virpil ACE pedals.
+This repository contains the design files for my VPForce DIY Force Feedback Kit modification of the Virpil ACE pedals.
 
 ![VPF_VPC-Pedals](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/35120b26-20e5-49ec-a336-afeae8ac1e1b)
 
