@@ -2,7 +2,8 @@
 
 This repository contains the design files for my VPForce DIY Kit modification of the Virpil ACE pedals.
 
-![VPF_VPC-Pedals](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/dad2efcc-e845-4e18-b904-63928c868592)
+![VPF_VPC-Pedals](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/35120b26-20e5-49ec-a336-afeae8ac1e1b)
+
 
 
 The build can be completed without making any permanent modifications to the pedals.  There are 3x M6 holes in the main pulley and pulley mounting plate that can be used to secure the center of the plate to the upper arm if you so desire, but that will require drilling 3x 6mm holes in the upper arm of the pedals.  These bolts are not required and , to date, I have not installed them on my build.
@@ -21,8 +22,8 @@ The Virpil ACE pedals 3D model that is part of these design files is of my own m
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AWd7LjSCXhk/0.jpg)](https://www.youtube.com/watch?v=AWd7LjSCXhk)
 
 
-A full as-built build list is provided Here.
-[Virpil ACE VPForce Build List.xlsx](https://github.com/Number481/VirpilACE-VPForce-Mod/files/12152633/Virpil.ACE.VPForce.Build.List.xlsx)
+A full as-built build list is provided:
+
+![VPF_VPC-Pedals_Build List](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/e9efffc0-31a9-45b4-be06-f64824881f2b)
 
 
-![VPF_VPC-Pedals_Build List](https://github.com/Number481/VirpilACE-VPForce-Mod/assets/87660141/2842bfcf-0761-4e69-8b75-c033a74f4e79)
