@@ -10,7 +10,7 @@ The build can be completed without making any permanent modifications to the ped
 ## CYA Note:
 The Virpil ACE pedals 3D model that is part of these design files is of my own making.  It was not provided by, nor does it have any affiliation with Virpil.  The only truly accurate aspects of the model are the 130x135mm bolt pattern of the base and the M6 mounting hole locations where the gear mount attaches to the upper pedal arms.  The remainder of the parts are drawn by me using rough measurements and eye-balling.
 
-Modifying your pedals at your own risk.  
+*Modify your pedals at your own risk*
 ## Primary Components:
 - Virpil Ace Pedals
 - VPForce 86BLF03 single motor kit
