@@ -17,4 +17,5 @@ The Virpil ACE pedals 3D model that is part of these design files is of my own m
 - A suitable timing belt
 - A suitable drive pulley
 
-A full as-built build list is provided further below.
+A full as-built build list is provided Here.
+[Virpil ACE VPForce Build List.xlsx](https://github.com/Number481/VirpilACE-VPForce-Mod/files/12152633/Virpil.ACE.VPForce.Build.List.xlsx)
